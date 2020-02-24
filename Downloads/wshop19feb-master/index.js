@@ -12,3 +12,5 @@ mongoose.connect(dbConfig.databaseURL, dbOptions).then(() => {
 })
 
 module.exports = { app, port }
+
+//hejdå
